@@ -1,16 +1,30 @@
-## Hi there 👋
+💫 About Me:
+About Me
 
-<!--
-**UTKAL-2006/UTKAL-2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I’m Utkal Sahu, a B.Tech Computer Science Engineering student at Shri Shankaracharya Technical Campus, Bhilai. I am passionate about programming and continuously working to strengthen my skills in problem-solving and software development.
 
-Here are some ideas to get you started:
+I have a solid foundation in C, C++, and Python, and I am actively exploring Data Structures & Algorithms to build efficient and optimized solutions. I believe in learning through practice, consistency, and building real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am highly motivated to grow in the field of technology, especially in areas like software development and Artificial Intelligence. I am always eager to learn new concepts, improve my coding abilities, and collaborate on meaningful projects.
+
+🔗 Connect with me:
+Instagram: https://www.instagram.com/utkal.sahu
+LinkedIn: www.linkedin.com/in/utkalsahu31
+
+🌐 Socials:
+Instagram LinkedIn email
+
+💻 Tech Stack:
+C C++ Python
+
+📊 GitHub Stats:
+
+
+
+
+
+
+🏆 GitHub Trophies
+
+
+✍️ Random Dev Quote
